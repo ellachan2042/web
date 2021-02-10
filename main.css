@@ -8,8 +8,10 @@ font-family: Times New Roman;
 }
 p {
   font-family: "Gill Sans", sans-serif;
-   background-color: #B0E0E6;
 }
 li {
   font-family: "Gill Sans", sans-serif;
+}
+body {
+  background-color: #B0C4DE;
 }
