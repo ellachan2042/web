@@ -1,13 +1,13 @@
 h1 {
-font-family: "sans-serif";
+font-family: Times New Roman;
 color: blue
 }
 h2 {
-font-family: "sans-serif";
+font-family: Times New Roman;
 color: dark gray
 }
 p {
-  font-family: "times new roman"
+  font-family: "Gill Sans", sans-serif;
 }
 ul {
   list-style-image: url(https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-dog-cartoon-dog-various-breeds-of-dogs-year-of-the-dog-png-image_335490.jpg);
