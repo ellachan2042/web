@@ -18,4 +18,6 @@ li {
 }
 body {
   background-color: LightSteelBlue;
+  border-color: DarkSlateGrey;
+  border-style: Dashed;
 }
