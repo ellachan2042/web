@@ -1,12 +1,14 @@
 h1 {
 font-family: Times New Roman;
-  color: blue
+  color: #008B8B
 }
 h2 {
 font-family: Times New Roman
+  color: #2F4F4F
 }
 p {
   font-family: "Gill Sans", sans-serif;
+   background-color: #B0E0E6;
 }
 li {
   font-family: "Gill Sans", sans-serif;
