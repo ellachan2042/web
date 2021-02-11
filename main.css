@@ -1,29 +1,36 @@
-/* VWC Roster: Craig Chen, Weichen Liu, Vincent Zhu
-IntroCS pd5 sec08
-HW05 - Stuylin'
-2021-02-22
+/* TNPG: NERD Roster: Ella Chan, Joseph Othman, & Nicholas Tarsis
+ IntroCS pd05 sec08
+ HW05 -- Stuylin'
+ 2021-02-10
  */
 h1 {
 font-family: Times New Roman;
-  color: #008B8B;
+  color: DarkCyan;
   text-shadow: 2px 2px MediumTurquoise;
 }
+/*text-shadow will create a shadow for h1. The shadow will be the color MediumTurquoise */
 h2 {
 font-family: Times New Roman;
   color: SteelBlue;
 }
 h3 {
-  font-family: Time New Roman;
+  font-family: Times New Roman;
   color: SteelBlue;
 }
+/* all the headings are in Times New Roman. h2 and h3 are SteelBlue while h1 is DarkCyan */
+
 p {
   font-family: "Gill Sans", sans-serif;
 }
 li {
   font-family: "Gill Sans", sans-serif;
 }
+/* the font-family of the text surrounded by the <p> and <li> tags is changed "Gill Sans", sans-serif */
+
 body {
   background-color: LightSteelBlue;
   border-color: DarkSlateGrey;
   border-style: Dashed;
 }
+/* the background color of the text surrounded by the <body> tags is now the color LightSteelBlue. The border color is DarkSlateGrey and the style is dashed */
+
